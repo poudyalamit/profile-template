@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Bolnuhos",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It is a communicating real-time application made using MERN Stack which also stores data of users.",
+    url: "https://github.com/poudyalamit/Bolnuhos",
   },
   {
-    title: "Web Development for Beginners",
+    title: "3D-Models",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A application with model of t-shirt made by using three.js which helps everyone to choose as per their taste of colors.",
+    url: "https://github.com/poudyalamit/3D-Models",
   },
   {
-    title: "My Resume Site",
+    title: "Hangman",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Game with the simple logic of words and touch.",
+    url: "https://github.com/poudyalamit/Hangman",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "News-Rider",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "News application that  gives the news of whole world.",
+    url: "https://github.com/poudyalamit/News-Rider",
   },
 ];
 
